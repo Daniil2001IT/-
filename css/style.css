@@ -1,0 +1,115 @@
+.container {
+    max-width:750px;
+    margin: auto;
+  
+}
+
+
+.avatar {
+border-radius: 25px;
+width: 350px;
+box-shadow: 4px 4px 16px;
+margin: 30px  25px  15px  25px;
+}
+
+
+body {
+background: url(../img/8sPfMAJX9JA.jpg) 50%/cover no-repeat fixed;    
+margin-left: 170px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+}
+
+.info {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+.info p{
+ font-weight: bold;
+ color: palevioletred;
+ font-style: italic;
+}
+
+
+.infotext {
+  margin-left: 20px; 
+  margin-top: 28px;
+  margin-bottom: 10px; 
+}
+
+.infotext2 {
+ margin-bottom: 30px;   
+} 
+
+
+.infotext2 h4 {
+margin-top: 10px;
+}
+
+.infotext2 li {
+ margin-left: 10px;   
+}
+
+
+h2 {
+    color: lightsalmon;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+
+
+.nav {
+  margin-top: 40opx; 
+ 
+}
+
+
+
+.help {
+font-size: 27px;
+font-weight: bold;
+text-decoration: none;
+
+
+}
+
+img {
+border-radius: 10px;
+margin-top: 5px; 
+margin-bottom: 10px;   
+display: inline-block;
+margin-right: 10px;
+}
+
+video {
+    border-radius: 10px;
+}
+
+
+.card {
+margin-bottom: 30px;
+margin-top: 30px;
+}
+
+
+.bgcolor {
+background: lightpink;
+border-radius: 20px;
+padding: 10px 10px 10px 30px;
+}
+
+.textend {
+background: lightpink;
+border-radius: 20px;
+padding: 10px 10px 10px 30px;
+}
+
+.footer {
+text-align: center;
+margin-top: 200px;   
+}
